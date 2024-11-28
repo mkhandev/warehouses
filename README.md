@@ -7,7 +7,7 @@
 composer install
 ```
 
-### Update.env file for database connection
+### Update .env file for database connection
 ```sh
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
